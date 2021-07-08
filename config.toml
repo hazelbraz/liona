@@ -1,0 +1,4 @@
+baseURL = "https://liona.pages.dev"
+languageCode = "en-us"
+title = "liona"
+theme = "tale"
